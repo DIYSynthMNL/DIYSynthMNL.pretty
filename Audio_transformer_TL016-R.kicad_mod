@@ -21,8 +21,18 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b89a4d20-c3ae-4c2d-b2e1-c63a54f11018)
   )
-  (fp_rect (start -7.5057 -7.5057) (end 7.5057 7.5057)
-    (stroke (width 0.1) (type default)) (fill none) (layer "F.SilkS") (tstamp b8578edb-a367-4dd2-b766-06ec2d13637d))
+  (fp_line (start -7.5057 -7.5057) (end -7.5057 -2)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 74caefa4-72a7-4166-9038-0ca61923fc10))
+  (fp_line (start -7.5 1.9) (end -7.5 7.5057)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp dce589bc-5162-4e7f-869b-61df1b3a517b))
+  (fp_line (start -7.5 7.5057) (end 7.5 7.5057)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp d472e6c3-69ce-480d-9724-60df53849292))
+  (fp_line (start 7.5 -7.5057) (end -7.5057 -7.5057)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 97d6a0e1-fe64-49d3-9d2c-87b3937ee10e))
+  (fp_line (start 7.5 -1.8) (end 7.5 -7.5057)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp d26f558a-8f22-457e-a45d-c82686098037))
+  (fp_line (start 7.5 7.5057) (end 7.5 1.9)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp ec70b4e5-3c9a-4e15-a0ba-c4c475fc2a3a))
   (fp_rect (start -8.7884 -7.874) (end 8.763 7.874)
     (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp 9bc36e7a-b1a6-4058-9eb9-85215ee8e2f8))
   (fp_line (start -4.0607 -2.2127) (end -4.0407 -2.2727)
@@ -229,117 +239,4 @@
   (pad "4" thru_hole circle (at 3.75285 -6.096) (size 2 2) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 90f4421d-0e74-4ae0-85de-22c5389b4170))
   (pad "5" thru_hole circle (at 0 -6.096) (size 2 2) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 8c720999-9453-4f65-9302-bebddec24a4b))
   (pad "6" thru_hole circle (at -3.75285 -6.096) (size 2 2) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp b5ddf346-6b0a-4ab6-85c6-4b1de2ae0bc6))
-  (group "" (id a5bc9ae7-d642-40fb-9689-7e1775f2e18c)
-    (members
-      0296f3ae-d704-4f8d-81ae-d8e5d4a4b71d
-      0325b5dc-dedc-453b-8f11-34a6972408dd
-      03939ca9-1664-4ef9-8446-f9cdc3db8f6f
-      0a4021b3-9396-400e-899d-d387ee537746
-      0a98d3d4-ec74-42ba-8c3e-d26007311368
-      0acfb1c7-94ba-4029-b8d2-ad7db1885b23
-      0b630262-6d20-4991-a7ae-bf419f8a161d
-      0bcc38a9-cbc0-4928-973b-3342d507f60d
-      0e08258a-038b-4ce6-b117-3d3d907565e3
-      0ee14496-6f41-4259-a4a3-10f7210e417c
-      0ef382b3-718d-421d-9c15-9c664e05eb87
-      1089d965-e64e-401b-a198-0c15a8567b0f
-      1419c28a-d6c6-40a1-9ebc-d4178641ab08
-      1631f55c-60b9-4f43-ab67-24dfae332300
-      1f9018ae-6878-4033-85a4-e3f9b0cba779
-      2533a1d6-1a56-4abd-b65a-a86062d79ff3
-      2c41743f-e972-467c-9afd-8ab6f07efef5
-      2d8b2802-8e46-46b1-95a1-67d68fc89737
-      2e0d6029-f2db-4191-8f23-ad992716ce9b
-      2f6d3b3b-b71b-4951-9870-1c01b3f9a05c
-      300130ba-d1c2-42c0-9382-8145737f91e1
-      3097e171-cbba-46e1-91bc-e8651a5c1075
-      33bca4f8-8c30-471c-affd-0085e427c125
-      37915417-fc9f-4e99-9d15-dac79c0e438d
-      39402f4f-1c59-446c-9c07-8eaf32ca7299
-      3e1e273b-1067-41ac-b10c-5050464b9398
-      3ecad2ba-c8c6-4b3d-bd7d-d59a0e5f3e2b
-      3fe514a7-6695-4300-86a2-03aa0daae37d
-      42154250-d6f5-4480-b157-03bfdc7b14af
-      44158036-420d-4872-9384-410bc0f7709f
-      47dfb8c9-ef42-4862-be1f-3571dec5cd4d
-      4a0cc408-a6cb-42d8-b523-361063a901f9
-      4aae59fb-e7ff-469f-848d-cf214f633b4d
-      4c335aac-5424-4a98-9520-ab11070ff3a3
-      597a60b3-944b-4fe8-bfdb-fd6a84dcc952
-      5af0b4a0-a9a6-43f1-a7e6-cf1bb0755a1b
-      5cf68b2f-b048-4a86-8ea8-8e7710e46451
-      5eb7408a-b107-42a8-a7df-2b888867a828
-      6096f977-cee8-44c2-963a-98ef7d437efd
-      63a2cb8e-1f0d-4aea-ac14-70202ee4c4d2
-      63eefeaa-be01-40ea-950e-4d6ed795f3cb
-      6594adf8-ae5c-4dbf-90d3-3c68b668891d
-      6a06c1e6-06ce-4636-939f-dfaf2157090b
-      6d875a3d-bbc4-4fca-b8c1-1daf213f065e
-      6dd46245-9367-4556-b8f2-56be3045769c
-      6faa8de7-d017-48ee-bf96-1d4fc09e173b
-      73412642-1482-4093-9aa2-185f8ead1add
-      745f9a7d-06c0-4a56-bc1e-2b364147a680
-      753dc643-7dd5-4463-a0e0-85e9ed6f6d33
-      79b35501-824b-4986-8e24-e7e25b0060f2
-      7e04b9cc-8fd9-4283-9ddf-6c856ce8cf4e
-      819c6f51-4da2-4b61-b2e2-1a366b147b75
-      81b7a7ae-c33d-4add-8aa8-25ecc53df938
-      81e3adab-ff1c-46a0-bc7b-e08fa1677905
-      823791e6-f930-4adc-b649-f17c03669e9e
-      82711b76-f63b-4f2f-a7e8-063793bd4bc5
-      82b8b51a-ab80-4d2c-96e7-61d08882c5f2
-      8445981c-5587-4d33-a329-339b4ffbd03e
-      85c361ad-5944-47a7-ab40-3275de2c488c
-      8792e439-0ebe-41e6-b907-ceff34f0a1f4
-      88eb57e2-fe9d-4664-a5db-52bf468b1dfe
-      8b284567-5689-49ad-922e-b959b3e312a8
-      8c720999-9453-4f65-9302-bebddec24a4b
-      8d650d75-ba38-494e-ac03-36fe0134f1fc
-      8d8c3885-6e55-40e3-a52a-715877be5749
-      8f367283-6a54-4513-9119-e2b1c9230759
-      90da89b1-b70c-4dfc-b21f-c4b80a1c6ade
-      90f4421d-0e74-4ae0-85de-22c5389b4170
-      92717786-f5e0-4c73-a138-364613772ce7
-      96588796-9165-48d1-a410-164c48db89b3
-      96a84c80-a160-4851-81e5-22f8270ff77a
-      9f58d987-bbae-4a5b-87a8-0fcaa2c3594e
-      a4a35fd9-9730-4790-b3b5-cd1eeb0e347f
-      a5269d10-8dd5-46a9-b8a3-dcdd6061c4d7
-      a5ebd56a-b03d-4d22-a62f-f1de68abcc35
-      a8109932-42ad-4a53-baf2-a6346e3258d5
-      a95aeb69-ce52-4811-b787-355a38a684fb
-      aa246d23-f0c0-4579-9536-bea67bd15305
-      ab2fe57c-83fb-4daf-82a2-f060b4a1ed03
-      ad550c38-c0de-490b-aaa2-04be3dd9d6a7
-      afab859c-e864-4ef4-afcf-ae0f8ffafbc0
-      b2129726-f048-485f-8a49-997e3c3ab435
-      b4292286-ae0f-4ca4-8ebf-638c44175fcc
-      b4782bc0-0595-4863-95f9-d775e340b31f
-      b5ddf346-6b0a-4ab6-85c6-4b1de2ae0bc6
-      b66cfdcc-714d-4f73-a007-97f6ec824654
-      b6aa968e-48af-4001-996b-6c593ebd2829
-      b8578edb-a367-4dd2-b766-06ec2d13637d
-      b9adb4cf-59e8-40dd-873c-5b30981d0c2c
-      bf507814-9c12-443e-b306-eb8c7f8774c9
-      c0dfdb4a-78a4-455d-8a70-8bb46de4ee5b
-      c497f453-ee10-4541-a52a-21161b086f3e
-      c4c9ebfc-d7b8-4d9c-855c-45171c70cfb7
-      c6d4084b-25c4-472b-a941-a07ab471f66a
-      c9922e35-ea96-4ace-90b6-2dbb70d3d95e
-      cbb667db-25ac-4af1-9259-cc1fafe04f52
-      d002c198-e2d1-4d48-ab94-2de1e9e37ec3
-      d040b792-3455-4205-bb10-76f6741982ad
-      da9626e4-b0fa-4769-badb-95b5d77fb050
-      dabe5d35-9ee8-49e8-a908-94885a98fb17
-      db9b0e8c-2595-465c-86db-f2177e17afff
-      def3f555-55af-4b77-bb8c-e2b907eb139e
-      e12b90f4-6c8f-426f-8572-eb8e81262e05
-      e47c3ced-e335-4713-adc2-b87d5d8d93a2
-      ee55cff7-0ce7-429b-a315-d3c00b151255
-      f54ce2b2-4918-4c47-86ce-3a9ef0b7c9e6
-      faf4f558-70f2-4047-8442-c25909395080
-      fb71a4af-a6eb-47ed-a1d8-76a10410be57
-      fca91e35-f567-411c-b61b-5c84c3191681
-    )
-  )
 )
