@@ -30,4 +30,9 @@
   (pad "1" thru_hole oval (at 0 -4.7) (size 3.8 2.4) (drill oval 2.2 0.9) (layers "*.Cu" "*.Mask") (tstamp 421d5bc6-9753-4c34-85ec-bb4ab1662bf7))
   (pad "2" thru_hole oval (at 0 0) (size 3.8 2.4) (drill oval 2.2 0.9) (layers "*.Cu" "*.Mask") (tstamp ce268da8-6d90-4315-a2af-dda81bb3428c))
   (pad "3" thru_hole oval (at 0 4.7) (size 3.8 2.4) (drill oval 2.2 0.9) (layers "*.Cu" "*.Mask") (tstamp 547d747f-908e-4d6e-9b56-880104b4a1bf))
+  (model "C:/Users/Acer/Desktop/Synth DIY/Step 3D Models/6mm SPDT Mini Toggle Switch.step"
+    (offset (xyz 0 0 10.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )

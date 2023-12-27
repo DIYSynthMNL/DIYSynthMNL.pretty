@@ -33,4 +33,9 @@
   (pad "4" thru_hole oval (at 2.4 -4.7) (size 3.8 2.4) (drill oval 2.2 0.9) (layers "*.Cu" "*.Mask") (tstamp 04ca4c6f-7983-4cd2-a1e5-0bc583f23580))
   (pad "5" thru_hole oval (at 2.4 0) (size 3.8 2.4) (drill oval 2.2 0.9) (layers "*.Cu" "*.Mask") (tstamp 168a6fa8-05f3-4562-a53f-ed5bd49ebdfd))
   (pad "6" thru_hole oval (at 2.4 4.7) (size 3.8 2.4) (drill oval 2.2 0.9) (layers "*.Cu" "*.Mask") (tstamp 65505135-a281-4fe0-b467-69bddeae9c27))
+  (model "C:/Users/Acer/Desktop/Synth DIY/Step 3D Models/6mm DPDT Mini Toggle Switch.step"
+    (offset (xyz 0 0 10.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
 )

@@ -50,4 +50,19 @@
   (pad "1" thru_hole rect (at 0 0 90) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 7233086e-7f13-44b5-bcef-5e84b286327d))
   (pad "2" thru_hole circle (at 0 2.5 90) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 4e48d7a9-e71e-4b71-a5bd-4e64e36e7898))
   (pad "3" thru_hole circle (at 0 5 90) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp cde64622-6d6d-4a5b-b846-a16a51e59359))
+  (model "C:/Users/Acer/Desktop/Synth DIY/Step 3D Models/RD901F-40-15R1.stp"
+    (offset (xyz 7.5 -2.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
+  (model "C:/Users/Acer/Desktop/Synth DIY/Step 3D Models/RD901F-20-15R1.stp" hide
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
+  (model "C:/Users/Acer/Desktop/Synth DIY/Step 3D Models/RD902F-40-15F.stp" hide
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
