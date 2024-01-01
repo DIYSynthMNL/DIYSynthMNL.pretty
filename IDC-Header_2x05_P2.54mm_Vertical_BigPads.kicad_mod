@@ -7,7 +7,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4b62872f-167e-4a94-97c3-5c2039995b9a)
   )
-  (fp_text value "IDC-Header_2x05_P2.54mm_Vertical_BigPads" (at 1.27 16.26) (layer "F.Fab")
+  (fp_text value "IDC-Header_2x05_P2.54mm_Vertical_BigPads" (at 1.27 16.26) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 40812787-ba6f-414e-8cc7-a883444bd88f)
   )
