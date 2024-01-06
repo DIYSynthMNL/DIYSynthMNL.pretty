@@ -7,7 +7,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 6cf996d8-8eb8-4bf4-8882-c14d7c71aab1)
   )
-  (fp_text value "Potentiometer_Bourns_3296W_Vertical_BigPads" (at -2.54 3.67) (layer "F.Fab")
+  (fp_text value "Potentiometer_Bourns_3296W_Vertical_BigPads" (at -2.54 3.67) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 8fefe3cd-4246-4d7b-921f-43e7c337660d)
   )

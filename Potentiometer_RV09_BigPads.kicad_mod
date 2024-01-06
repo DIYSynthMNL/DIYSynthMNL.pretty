@@ -5,7 +5,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 23aa67ad-3f17-481a-b117-ac47606da4b3)
   )
-  (fp_text value "Potentiometer_RV09_BigPads" (at 7.5 10) (layer "F.Fab")
+  (fp_text value "Potentiometer_RV09_BigPads" (at 7.5 10) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp cda895ba-ad53-494a-805e-03ae10dbd37b)
   )

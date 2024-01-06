@@ -7,7 +7,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 44d6b9fc-119c-4c88-9ea9-da22c5a27021)
   )
-  (fp_text value "C_Rect_L7.0mm_W2.0mm_P5.00mm_BigPads" (at 2.5 2.25) (layer "F.Fab")
+  (fp_text value "C_Rect_L7.0mm_W2.0mm_P5.00mm_BigPads" (at 2.5 2.25) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a7ce1330-16a2-47f7-8910-2ba586f9a494)
   )

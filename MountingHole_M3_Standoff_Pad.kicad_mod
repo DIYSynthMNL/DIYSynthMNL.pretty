@@ -5,7 +5,7 @@
       (effects (font (size 1 1) (thickness 0.1)))
     (tstamp 06db63e5-e8dd-474a-aff8-3953ee3e01bc)
   )
-  (fp_text value "MountingHole_M3_Standoff_Pad" (at 0 -3.3 unlocked) (layer "F.Fab")
+  (fp_text value "MountingHole_M3_Standoff_Pad" (at 0 -3.3 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp de7f8829-9fe0-47ec-943d-0497d2a38c04)
   )

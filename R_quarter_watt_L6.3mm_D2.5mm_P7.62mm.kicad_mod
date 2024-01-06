@@ -7,7 +7,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 079b71c1-272b-44c5-bcd0-8369ce1f9622)
   )
-  (fp_text value "R_quarter_watt_L6.3mm_D2.5mm_P7.62mm" (at 3.81 2.37) (layer "F.Fab")
+  (fp_text value "R_quarter_watt_L6.3mm_D2.5mm_P7.62mm" (at 3.81 0) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 0fe5d38b-8d46-4435-9118-3c24556c0c11)
   )

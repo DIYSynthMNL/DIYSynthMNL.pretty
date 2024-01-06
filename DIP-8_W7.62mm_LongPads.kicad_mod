@@ -7,7 +7,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp af47bd4f-7235-49eb-8db1-ebf4f59f7b21)
   )
-  (fp_text value "DIP-8_W7.62mm_LongPads" (at 3.81 9.95) (layer "F.Fab")
+  (fp_text value "DIP-8_W7.62mm_LongPads" (at 3.81 3.81 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b87a96ca-7d96-4ae8-9a47-2e33544044fb)
   )
