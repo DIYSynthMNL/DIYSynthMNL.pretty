@@ -27,7 +27,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 9de472ba-35e1-4e54-8928-24955a2fddd1))
   (fp_line (start 2.225 2.42) (end 2.225 -2.41)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 3949ca44-f865-4592-b0fb-f47b7de9b48b))
-  (pad "" np_thru_hole circle (at 0.955 1.15) (size 2.8 2.8) (drill 2.4) (layers "F&B.Cu" "*.Mask") (tstamp faf47a4d-4483-49b7-9d9f-c074e2b4bbe6))
+  (pad "" np_thru_hole circle (at 0.955 1.15) (size 3 3) (drill 2.4) (layers "F&B.Cu" "*.Mask") (tstamp faf47a4d-4483-49b7-9d9f-c074e2b4bbe6))
   (model "${KICAD6_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.wrl" hide
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

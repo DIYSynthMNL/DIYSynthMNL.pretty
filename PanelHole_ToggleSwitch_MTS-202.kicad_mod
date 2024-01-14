@@ -19,5 +19,5 @@
     (stroke (width 0.15) (type solid)) (layer "F.Fab") (tstamp 0905947a-4c62-4bd0-80dd-16a64dd12fb7))
   (fp_circle (center -0.000416 0) (end 3.000001 0)
     (stroke (width 0.15) (type solid)) (fill none) (layer "F.Fab") (tstamp 6569dec4-9452-469e-b88f-2197d67ada3b))
-  (pad "" np_thru_hole circle (at 0 0) (size 7 7) (drill 6) (layers "F&B.Cu" "*.Mask") (tstamp ada9c7f1-fe81-4418-bd01-78861cdd1afe))
+  (pad "" np_thru_hole circle (at 0 0) (size 7.4 7.4) (drill 6.4) (layers "F&B.Cu" "*.Mask") (tstamp ada9c7f1-fe81-4418-bd01-78861cdd1afe))
 )
